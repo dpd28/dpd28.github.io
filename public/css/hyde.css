@@ -89,7 +89,11 @@ html {
   margin-bottom: 1rem;
 }
 
-.sidebar-nav p, .sidebar-nav a {
+.sidebar-nav a {
+  font-size: 0.85rem;
+}
+
+.container.sidebar-sticky p {
   font-size: 0.85rem;
 }
 
